@@ -12,7 +12,7 @@ body {
 }
 
 .head--secondary {
-    color:white;
+    color: #fff;
     font-weight: 300;
     font-size: 42px;
 }
@@ -20,7 +20,7 @@ body {
     font-size: 21px;
     color: gray;
 }
-heade
+
 /* LINKS */
 .link--cta {
     font-size: 16px;
